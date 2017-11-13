@@ -30,9 +30,34 @@ Produced by Charles Keller and David Widger
 
 
 
-THE MERRY ADVENTURES OF ROBIN HOOD
+THE MERRY ADVENTURES OF ROBIN HOOD by Howard Pyle
 
-by Howard Pyle
+Contents
+1 PREFACE
+1 How Robin Hood Came to Be an Outlaw
+1 Robin Hood and the Tinker
+1 The Shooting Match at Nottingham Town
+1 Will Stutely Rescued by His Companions
+1 Robin Hood Turns Butcher
+1 Little John Goes to Nottingham Fair
+1 How Little John Lived at the Sheriff's
+1 Little John and the Tanner of Blyth
+1 Robin Hood and Will Scarlet
+1 The Adventure with Midge the Miller's Son
+1 Robin Hood and Allan o Dale
+1 Robin Hood Seeks the Curtal Friar
+1 Robin Hood Compasses a Marriage
+1 Robin Hood Aids a Sorrowful Knight
+1 How Sir Richard of the Lea Paid His Debts
+1 Little John Turns Barefoot Friar
+1 Robin Hood Turns Beggar
+1 Robin Hood Shoots Before Queen Eleanor
+1 The Chase of Robin Hood
+1 Robin Hood and Guy of Gisbourne
+1 King Richard Comes to Sherwood Forest
+1 Epilogue 1
+
+
 PREFACE
 FROM THE AUTHOR TO THE READER
 You who so plod amid serious things that you feel it shame to give yourself up even for a few short moments to mirth and joyousness in the land of Fancy; you who think that life hath nought to do with innocent laughter that can harm no one; these pages are not for you. Clap to the leaves and go no farther than this, for I tell you plainly that if you go farther you will be scandalized by seeing good, sober folks of real history so frisk and caper in gay colors and motley that you would not know them but for the names tagged to them. Here is a stout, lusty fellow with a quick temper, yet none so ill for all that, who goes by the name of Henry II. Here is a fair, gentle lady before whom all the others bow and call her Queen Eleanor. Here is a fat rogue of a fellow, dressed up in rich robes of a clerical kind, that all the good folk call my Lord Bishop of Hereford. Here is a certain fellow with a sour temper and a grim look—the worshipful, the Sheriff of Nottingham. And here, above all, is a great, tall, merry fellow that roams the greenwood and joins in homely sports, and sits beside the Sheriff at merry feast, which same beareth the name of the proudest of the Plantagenets—Richard of the Lion's Heart. Beside these are a whole host of knights, priests, nobles, burghers, yeomen, pages, ladies, lasses, landlords, beggars, peddlers, and what not, all living the merriest of merry lives, and all bound by nothing but a few odd strands of certain old ballads (snipped and clipped and tied together again in a score of knots) which draw these jocund fellows here and there, singing as they go.
@@ -44,30 +69,7 @@ And now I lift the curtain that hangs between here and No-man's-land. Will you c
 
 
 
-Contents
-PREFACE
-How Robin Hood Came to Be an Outlaw
-Robin Hood and the Tinker
-The Shooting Match at Nottingham Town
-Will Stutely Rescued by His Companions
-Robin Hood Turns Butcher
-Little John Goes to Nottingham Fair
-How Little John Lived at the Sheriff's
-Little John and the Tanner of Blyth
-Robin Hood and Will Scarlet
-The Adventure with Midge the Miller's Son
-Robin Hood and Allan a Dale
-Robin Hood Seeks the Curtal Friar
-Robin Hood Compasses a Marriage
-Robin Hood Aids a Sorrowful Knight
-How Sir Richard of the Lea Paid His Debts
-Little John Turns Barefoot Friar
-Robin Hood Turns Beggar
-Robin Hood Shoots Before Queen Eleanor
-The Chase of Robin Hood
-Robin Hood and Guy of Gisbourne
-King Richard Comes to Sherwood Forest
-Epilogue
+
 
 
 
@@ -1067,7 +1069,7 @@ But Little John's tongue was ever one that was not easy of guidance, so that, in
 
 
 
-Robin Hood and Allan a Dale
+Robin Hood and Allan o Dale 
 IT HAS just been told how three unlucky adventures fell upon Robin Hood and Little John all in one day bringing them sore ribs and aching bones. So next we will tell how they made up for those ill happenings by a good action that came about not without some small pain to Robin.
 Two days had passed by, and somewhat of the soreness had passed away from Robin Hood's joints, yet still, when he moved of a sudden and without thinking, pain here and there would, as it were, jog him, crying, "Thou hast had a drubbing, good fellow."
 The day was bright and jocund, and the morning dew still lay upon the grass. Under the greenwood tree sat Robin Hood; on one side was Will Scarlet, lying at full length upon his back, gazing up into the clear sky, with hands clasped behind his head; upon the other side sat Little John, fashioning a cudgel out of a stout crab-tree limb; elsewhere upon the grass sat or lay many others of the band.
@@ -2363,9 +2365,6 @@ His yeomen were scattered henceforth, but no great ill befell them thereafter, f
 A certain one sayeth that upon a stone at Kirklees is an old inscription. This I give in the ancient English in which it was written, and thus it runs:
 HEAR UNDERNEAD DIS LAITL STEAN LAIS ROBERT EARL OF HUNTINGTUN NEA ARCIR VER AS HIE SAE GEUD AN PIPL KAULD IM ROBIN HEUD SICK UTLAWS AS HI AN IS MEN VIL ENGLAND NIDIR SI AGEN OBIIT 24 KAL. DEKEMBRIS 1247.
 And now, dear friend, we also must part, for our merry journeyings have ended, and here, at the grave of Robin Hood, we turn, each going his own way.
-
-
-
 
 
 
